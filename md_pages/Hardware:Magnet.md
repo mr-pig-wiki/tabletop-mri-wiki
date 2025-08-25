@@ -17,15 +17,15 @@ shimmed the magnet to ~50ppm homogeneity over 1cm DSV. The right photo
 shows the magnet in the shielded box with the RF coil and 1cm dia.
 sample tube in place.
 
-<a href="/File:magnet_figure_jpg.jpg" class="wikilink"
+<a href="/wiki_files/Magnet_figure_jpg.jpg" class="wikilink"
 title="400px|thumb|left|">400px|thumb|left|</a>
 
-<a href="/File:CAS_magnet.jpg" class="wikilink"
+<a href="/wiki_files/CAS_magnet.jpg" class="wikilink"
 title="400px|thumb|right|">400px|thumb|right|</a>
 
 
 
-<a href="/File:magnet_with_rf_coil_jpg.jpg" class="wikilink"
+<a href="/wiki_files/Magnet_with_rf_coil_jpg.jpg" class="wikilink"
 title="400px|thumb|right|First generation magnet with gradient coil and RF in place within the shielded box. B0 field strength is 0.19 Tesla.">400px|thumb|right|First
 generation magnet with gradient coil and RF in place within the shielded
 box. B0 field strength is 0.19 Tesla.</a>
@@ -72,12 +72,12 @@ to download CAD drawings in PDF form.
 here](https://tabletop.martinos.org/index.php/File:Inventor_CAD_drawings_magnet.zip)
 to download CAD drawings in Autodesk Inventor format.
 
-<a href="/File:Optimized_tabletop_crosssection_view.png"
+<a href="/wiki_files/Optimized_tabletop_crosssection_view.png"
 class="wikilink"
 title="400px|thumb|left|Magnet cross section dimensions. Depth is 6.25&quot;.">400px|thumb|left|Magnet
 cross section dimensions. Depth is 6.25".</a>
 
-<a href="/File:Secon_generation_magnet_photo_MGH.JPG" class="wikilink"
+<a href="/wiki_files/Secon_generation_magnet_photo_MGH.JPG" class="wikilink"
 title="400px|thumb|right|Second generation magnet shown with gradient and RF coil installed. B0 field strength is 0.4 Tesla.">400px|thumb|right|Second
 generation magnet shown with gradient and RF coil installed. B0 field
 strength is 0.4 Tesla.</a>

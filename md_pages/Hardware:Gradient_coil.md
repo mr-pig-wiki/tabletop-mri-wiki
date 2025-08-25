@@ -21,18 +21,18 @@ dedicated to each of the windings (ie. two layers for the x primary on
 the primary board). The copper was 2oz/ft^2 to allow higher currents.
 
 Download Gerber files for the
-<a href="/:File:CAS_Primary_8layers_v3.zip" class="wikilink"
+<a href="/md_pages/:File:CAS_Primary_8layers_v3.zip.md" class="wikilink"
 title="primary board">primary board</a> and
-<a href="/:File:CAS_Shielding_8layers_v3.zip" class="wikilink"
+<a href="/md_pages/:File:CAS_Shielding_8layers_v3.zip.md" class="wikilink"
 title="secondary shield board">secondary shield board</a> as well as a
-<a href="/:File:GRADIENT_WIRING_DIAGRAM.pdf" class="wikilink"
+<a href="/md_pages/:File:GRADIENT_WIRING_DIAGRAM.pdf.md" class="wikilink"
 title="wiring diagram">wiring diagram</a>.
 
 The inductance and resistance of the final X, Y, and Z coils are:
 
 X: 10.3 uH, 0.385 ohms Y: 10.4 uH, 0.365 ohms Z: 6.4 uH, 0.118 ohms
 
-<a href="/File:Gradient_boards_smaller_jpg.jpg" class="wikilink"
+<a href="/wiki_files/Gradient_boards_smaller_jpg.jpg" class="wikilink"
 title="600px|thumb|right|">600px|thumb|right|</a>
-<a href="/File:gradientcoil.png" class="wikilink"
+<a href="/wiki_files/Gradientcoil.png" class="wikilink"
 title="600px|thumb|right|">600px|thumb|right|</a>

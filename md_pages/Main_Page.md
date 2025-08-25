@@ -33,19 +33,19 @@ and also [an abstract from the 2014 ISMRM
 conference](http://archive.ismrm.org/2014/4819.html).
 
 First delivery to MIT:
-<a href="/Media:First_delivery_of_systems.JPG" class="wikilink"
+<a href="/wiki_files/First_delivery_of_systems.JPG" class="wikilink"
 title="photo here">photo here</a> Systems ready to roll out:
-<a href="/Media:Systems_ready_to_roll.jpg" class="wikilink"
+<a href="/wiki_files/Systems_ready_to_roll.jpg" class="wikilink"
 title="photo here">photo here</a> Students and faculty using the
 scanners in MIT 6.S02:
-<a href="/Media:Tabletop_scanners_6S02.png" class="wikilink"
+<a href="/wiki_files/Tabletop_scanners_6S02.png" class="wikilink"
 title="photos here">photos here</a>
 
-<a href="/Media:Tabletop_e_poster_ISMRM_2014_V1.pdf" class="wikilink"
+<a href="/wiki_files/Tabletop_e_poster_ISMRM_2014_V1.pdf" class="wikilink"
 title="Slides describing the tabletop scanner">Slides describing the
 tabletop scanner</a> from the ISMRM 2014 Conference.
 
-<a href="/File:System_cart.jpg" class="wikilink"
+<a href="/wiki_files/System_cart.jpg" class="wikilink"
 title="400px|thumb|right|">400px|thumb|right|</a>
 
 ## Introduction
@@ -57,7 +57,7 @@ bore](http://www.ncbi.nlm.nih.gov/pubmed/11755094) from [Steve Wright's
 lab](http://www.ece.tamu.edu/~mrsl/wright_ee_dept_bio.html) at [Texas
 A&M](http://www.tamu.edu/).
 
-<a href="/Media:Relaxometer_griswold.pdf" class="wikilink"
+<a href="/wiki_files/Relaxometer_griswold.pdf" class="wikilink"
 title="Open Source Mobile MR Relaxometer">Open Source Mobile MR
 Relaxometer</a> from [Mark Griswold's
 lab](http://ccir.case.edu/People/MarkAlanGriswoldPhD) at [Case
@@ -74,54 +74,54 @@ Niumag in [Shanghai](http://en.wikipedia.org/wiki/Shanghai).
 
 ## Hardware
 
-- <a href="/Hardware:Console" class="wikilink" title="Console">Console</a>
-- <a href="/Hardware:Gradient_coil" class="wikilink"
+- <a href="/md_pages/Hardware:Console.md" class="wikilink" title="Console">Console</a>
+- <a href="/md_pages/Hardware:Gradient_coil.md" class="wikilink"
   title="Gradient coil">Gradient coil</a>
-- <a href="/Hardware:GPA" class="wikilink"
+- <a href="/md_pages/Hardware:GPA.md" class="wikilink"
   title="GPA/Gradient Filters">GPA/Gradient Filters</a>
-- <a href="/Hardware:Magnet" class="wikilink" title="Magnet">Magnet</a>
-- <a href="/Hardware:RF" class="wikilink" title="RF">RF</a>
-- <a href="/:File:Other_Components.zip" class="wikilink"
+- <a href="/md_pages/Hardware:Magnet.md" class="wikilink" title="Magnet">Magnet</a>
+- <a href="/md_pages/Hardware:RF.md" class="wikilink" title="RF">RF</a>
+- <a href="/wiki_files/Other_Components.zip" class="wikilink"
   title="Other 3D printed components">Other 3D printed components</a>
-- <a href="/:File:Parts_list_tabletop_MRI_scanner.pdf" class="wikilink"
+- <a href="/wiki_files/Parts_list_tabletop_MRI_scanner.pdf" class="wikilink"
   title="Parts list">Parts list</a>
 
 ## Sequences
 
-- <a href="/Hardware:SourceCode" class="wikilink"
+- <a href="/md_pages/Hardware:SourceCode.md" class="wikilink"
   title="GUI Source Code, Descriptions, and Screen shots">GUI Source Code,
   Descriptions, and Screen shots</a>
 
 ## Images
 
-- <a href="/Images:Images" class="wikilink" title="Images">Images</a>
+- <a href="/md_pages/Images:Images.md" class="wikilink" title="Images">Images</a>
 
 ## Lab Manuals + Course Notes
 
 **2015 Class**
 
-- <a href="/Media:2015_04_28_6.s03_MRI_Lab3_v9.pdf" class="wikilink"
+- <a href="/wiki_files/2015_04_28_6.s03_MRI_Lab3_v9.pdf" class="wikilink"
   title="Lab 1">Lab 1</a>
-- <a href="/Media:2015_04_09_MRI_Lab1_6.S03_v6_lab.pdf" class="wikilink"
+- <a href="/wiki_files/2015_04_09_MRI_Lab1_6.S03_v6_lab.pdf" class="wikilink"
   title="Lab 2">Lab 2</a>
-- <a href="/Media:2015_03_26MRILab2_6.S03v5.pdf" class="wikilink"
+- <a href="/wiki_files/2015_03_26MRILab2_6.S03v5.pdf" class="wikilink"
   title="Lab 3">Lab 3</a>
 
 **2013 Class**
 
-- <a href="/Media:Prelab1.pdf" class="wikilink" title="Pre-Lab 1">Pre-Lab
+- <a href="/wiki_files/Prelab1.pdf" class="wikilink" title="Pre-Lab 1">Pre-Lab
   1</a>
-- <a href="/Media:Lab1.pdf" class="wikilink" title="Lab 1">Lab 1</a>
-- <a href="/Media:Prelab2.pdf" class="wikilink" title="Pre-Lab 2">Pre-Lab
+- <a href="/wiki_files/Lab1.pdf" class="wikilink" title="Lab 1">Lab 1</a>
+- <a href="/wiki_files/Prelab2.pdf" class="wikilink" title="Pre-Lab 2">Pre-Lab
   2</a>
-- <a href="/Media:Lab2.pdf" class="wikilink" title="Lab 2">Lab 2</a>
-- <a href="/Media:Prelab3.pdf" class="wikilink" title="Pre-Lab 3">Pre-Lab
+- <a href="/wiki_files/Lab2.pdf" class="wikilink" title="Lab 2">Lab 2</a>
+- <a href="/wiki_files/Prelab3.pdf" class="wikilink" title="Pre-Lab 3">Pre-Lab
   3</a>
-- <a href="/Media:Lab3.pdf" class="wikilink" title="Lab 3">Lab 3</a>
+- <a href="/wiki_files/Lab3.pdf" class="wikilink" title="Lab 3">Lab 3</a>
 
 <!-- -->
 
-- <a href="/Media:Lecture1.pdf" class="wikilink" title="Lecture 1">Lecture
+- <a href="/wiki_files/Lecture1.pdf" class="wikilink" title="Lecture 1">Lecture
   1</a>
 
 ## Contributors

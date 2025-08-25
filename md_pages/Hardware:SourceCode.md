@@ -166,7 +166,7 @@ TR), and save the raw data to a Matlab .mat file.
 
 ## FID_GUI
 
-<a href="/File:FID_GUI_basic_screenshot.png" class="wikilink"
+<a href="/wiki_files/FID_GUI_basic_screenshot.png" class="wikilink"
 title="600px|thumb|right|FID GUI">600px|thumb|right|FID GUI</a>
 
 The FID GUI runs a "one pulse" experiment that acquires a free induction
@@ -177,7 +177,7 @@ or by hand using the slider bars or text fields.
 
 ## SE_PROJ_GUI
 
-<a href="/File:SE_PROJ_GUI_spin_echo_no_shim.png" class="wikilink"
+<a href="/wiki_files/SE_PROJ_GUI_spin_echo_no_shim.png" class="wikilink"
 title="600px|thumb|right|SE_PROJ_GUI">600px|thumb|right|SE_PROJ_GUI</a>
 
 The spin echo/projection GUI shows the evolution of the spins in a
@@ -186,12 +186,12 @@ Students can see the effect of shimming on the shape of the spin echo.
 They can also see how applying gradient lobes along each direction
 creates a 1-D projection of the object instead of a narrow lineshape.
 
-<a href="/File:SE_PROJ_GUI_projection_multitube.png" class="wikilink"
+<a href="/wiki_files/SE_PROJ_GUI_projection_multitube.png" class="wikilink"
 title="600px|thumb|right|SE_PROJ_GUI">600px|thumb|right|SE_PROJ_GUI</a>
 
 ## IMAGING_GUI_1
 
-<a href="/File:IMAGING_GUI_1_screenshot.png" class="wikilink"
+<a href="/wiki_files/IMAGING_GUI_1_screenshot.png" class="wikilink"
 title="600px|thumb|right|IMAGING_GUI_1">600px|thumb|right|IMAGING_GUI_1</a>
 
 IMAGING_GUI_1 lets students acquire a 2D spin echo image (no
@@ -202,7 +202,7 @@ Students then process k-space offline with the FFT to create the image.
 
 ## IMAGING_GUI_2
 
-<a href="/File:IMAGING_GUI_2_screenshot.png" class="wikilink"
+<a href="/wiki_files/IMAGING_GUI_2_screenshot.png" class="wikilink"
 title="600px|thumb|right|IMAGING_GUI_2">600px|thumb|right|IMAGING_GUI_2</a>
 
 IMAGING_GUI_2 automatically computes read and phase encoding amplitudes
@@ -222,7 +222,7 @@ k-space provide most of the signal and contrast in the image.
 
 ## IMAGING_GUI_3
 
-<a href="/File:IMAGING_GUI_3_with_image.png" class="wikilink"
+<a href="/wiki_files/IMAGING_GUI_3_with_image.png" class="wikilink"
 title="600px|thumb|right|IMAGING_GUI_3">600px|thumb|right|IMAGING_GUI_3</a>
 
 IMAGING_GUI_3 acquires 3-D turbo spin echo images and displays the

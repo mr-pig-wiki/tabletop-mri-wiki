@@ -7,7 +7,7 @@ permalink: /Hardware:RF/
 
 ------------------------------------------------------------------------
 
-<a href="/File:rfcoil.jpg" class="wikilink"
+<a href="/wiki_files/Rfcoil.jpg" class="wikilink"
 title="400px|thumb|right|RF coil in copper shielded box">400px|thumb|right|RF
 coil in copper shielded box</a>
 
@@ -23,7 +23,7 @@ the solenoid is too long, signal from water outside the imaging volume
 that lies in the nonlinear region of the gradient coil field profile
 will warp into the image and cause artifacts.
 
-<a href="/File:IMG_7652.JPG" class="wikilink"
+<a href="/wiki_files/IMG_7652.JPG" class="wikilink"
 title="400px|thumb|right|Close-up of RF coil showing approx. size: ~7 turns of wire, 14mm dia. along X, 11mm length along Y direction. Teflon tubing is used around the wire to set the spacing between turns.">400px|thumb|right|Close-up
 of RF coil showing approx. size: ~7 turns of wire, 14mm dia. along X,
 11mm length along Y direction. Teflon tubing is used around the wire to

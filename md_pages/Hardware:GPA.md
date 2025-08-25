@@ -23,10 +23,10 @@ waveform in the pulse sequence and the size of the heat sink used on the
 boards.
 
 Two versions of the board have been used with the tabletop scanner.
-<a href="/Hardware:GPA#Version_1_of_the_GPA_board" class="wikilink"
+<a href="/md_pages/Hardware:GPA#Version_1_of_the_GPA_board.md" class="wikilink"
 title="Version 1">Version 1</a> uses separate digital-to-analog
 converter (DAC) boards and provides one output channel per GPA board.
-<a href="/Hardware:GPA#Version_2_of_the_GPA_board" class="wikilink"
+<a href="/md_pages/Hardware:GPA#Version_2_of_the_GPA_board.md" class="wikilink"
 title="Version 2">Version 2</a> simplified the wiring and reduced costs
 by placing three channels with integrated DAC stages onto a single PCB.
 Version 2 is plug-and-play compatible with the MEDUSA console digital
@@ -45,7 +45,7 @@ series with the output. A differential amplifier on the INA105 output
 provides a differential signal that can be scoped to monitor the current
 sense resistor voltage.
 
-<a href="/File:updated_gpa_schematic_corrected_july_2020.png"
+<a href="/wiki_files/Updated_gpa_schematic_corrected_july_2020.png"
 class="wikilink"
 title="300px|thumb|right|Version 1 Gradient Power Amplifier circuit providing a single channel of output current">300px|thumb|right|Version
 1 Gradient Power Amplifier circuit providing a single channel of output
@@ -92,7 +92,7 @@ the open loop transfer function and step response of the circuit into a
 specified load (useful for choosing the load impedance compensation
 circuit values).
 
-<a href="/File:V2_gpa_single_channel_schematic.png" class="wikilink"
+<a href="/wiki_files/V2_gpa_single_channel_schematic.png" class="wikilink"
 title="500px|thumb|left|Analog stage schematic for GPA Version 2. Stability is ensured by compensating the gradient coil load inductance using a lead compensator in the feedback loops. To compensate different loads, only two capacitors need to be changed as indicated in the yellow box. Circuit was designed and laid out by Jacob White and Nicolas Arango at MIT.">500px|thumb|left|Analog
 stage schematic for GPA Version 2. Stability is ensured by compensating
 the gradient coil load inductance using a lead compensator in the
@@ -101,7 +101,7 @@ to be changed as indicated in the yellow box. Circuit was designed and
 laid out by Jacob White and Nicolas Arango at MIT.</a>
 
 <a
-href="/https://tabletop.martinos.org/images/8/86/GPA_3ch_tabletop_shimboard_RevB_V8_2.zip_Click_here"
+href="/md_pages/https://tabletop.martinos.org/images/8/86/GPA_3ch_tabletop_shimboard_RevB_V8_2.zip_Click_here"
 class="wikilink"
 title="https://tabletop.martinos.org/images/8/86/GPA_3ch_tabletop_shimboard_RevB_V8_2.zip Click here"><span>https://tabletop.martinos.org/images/8/86/GPA_3ch_tabletop_shimboard_RevB_V8_2.zip</span>
 Click here</a> to download Eagle version 6 board (.brd) and schematic
@@ -109,7 +109,7 @@ Click here</a> to download Eagle version 6 board (.brd) and schematic
 for board production are also included.
 
 `image:Version 2 GPA photo.JPG|GPA board with 3 parallel analog stages each connected to a DAC.  RJ45 connectors accept `<a
-href="/https://tabletop.martinos.org/index.php/Hardware:Console_MEDUSA_console"
+href="/md_pages/https://tabletop.martinos.org/index.php/Hardware:Console_MEDUSA_console"
 class="wikilink"
 title="https://tabletop.martinos.org/index.php/Hardware:Console MEDUSA console"><span><code>https://tabletop.martinos.org/index.php/Hardware:Console</code></span><code> MEDUSA console</code></a>` digital SPI outputs for the X, Y, and Z gradient axes.`
 `image:Version 2 GPA enclosure.JPG|The 3ch GPA board installed in enclosure.  Powered by a 24V, 25A switching supply along with a small -15V supply for the digital stage ICs.   (Heat sinks and fan are not yet installed in this photo).`
@@ -148,7 +148,7 @@ uH](http://media.digikey.com/PDF/Data%20Sheets/Vishay%20Dale%20PDFs/IHLP-3232DZ-
 at each spot to allow for using multiple capacitors to obtain the
 specified value.
 
-<a href="/File:gradient_filter_photo.png" class="wikilink"
+<a href="/wiki_files/Gradient_filter_photo.png" class="wikilink"
 title="400px|thumb|none|Sample of populated filter board (v1)">400px|thumb|none|Sample
 of populated filter board (v1)</a>
 
@@ -161,7 +161,7 @@ supplies. Three BNC connectors take voltage waveform inputs at audio
 frequencies output to three banana plug outputs. An ammeter tracks total
 current use for the board, with a typical quiescent current of 600 mA.
 There are current sense pins available per channel at 1 V/A.
-<a href="/File:3ch_gpa.jpg" class="wikilink"
+<a href="/wiki_files/3ch_gpa.jpg" class="wikilink"
 title="300px|thumb|right|3ch gradient amplifier built from a modified 8ch shim amplifier board">300px|thumb|right|3ch
 gradient amplifier built from a modified 8ch shim amplifier board</a>
 
@@ -187,5 +187,5 @@ scanner, a tabletop MR scanner with ~400 uH coil inductance and ~2 Ohm
 resistance, the feedback capacitors are currently 1470 pF. This requires
 switching out components to change.
 
-<a href="/Media:buffer_board.zip" class="wikilink"
+<a href="/wiki_files/Buffer_board.zip" class="wikilink"
 title="Buffer board KiCAD files">Buffer board KiCAD files</a>

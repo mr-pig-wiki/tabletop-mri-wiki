@@ -15,13 +15,13 @@ it to baseband. Some specifics are at:
 <http://mrsrl.stanford.edu/~medusa/hardware/>
 
 The console is also described in detail in
-<a href="/Media:Medusa.pdf" class="wikilink"
+<a href="/wiki_files/Medusa.pdf" class="wikilink"
 title="this journal article.">this journal article.</a>
 
 An overview of the MEDUSA Matlab pulse sequence programming format is
 [described
 here](https://tabletop.martinos.org/images/b/b3/Medusa_overview.ppt.zip).
 
-<a href="/File:medusabox.jpg" class="wikilink"
+<a href="/wiki_files/Medusabox.jpg" class="wikilink"
 title="400px|thumb|right|figure 1. Medusa Console">400px|thumb|right|figure
 1. Medusa Console</a>
