@@ -13,14 +13,11 @@ the sequence. The console samples the received signal and downconverts
 it to baseband. Some specifics are at:
 <http://mrsrl.stanford.edu/~medusa/hardware/>
 
-The console is also described in detail in
-<a href="/tabletop-mri/files/Medusa.pdf" class="wikilink"
-title="this journal article.">this journal article.</a>
+The journal article describing the console requires a current PI-managed
+external download link.
 
 An overview of the MEDUSA Matlab pulse sequence programming format is
-[described
-here](/tabletop-mri/files/Medusa_overview.ppt.zip).
+described
+here *(download link pending from the responsible PI or project owner)*.
 
-<a href="/tabletop-mri/files/Medusabox.jpg" class="wikilink"
-title="400px|thumb|right|figure 1. Medusa Console">400px|thumb|right|figure
-1. Medusa Console</a>
+![Medusabox](Medusabox.jpg)

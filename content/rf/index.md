@@ -6,9 +6,7 @@ title: RF System
 
 ------------------------------------------------------------------------
 
-<a href="/tabletop-mri/files/Rfcoil.jpg" class="wikilink"
-title="400px|thumb|right|RF coil in copper shielded box">400px|thumb|right|RF
-coil in copper shielded box</a>
+![Rfcoil](Rfcoil.jpg)
 
 The RF coil for this system is used for transmitting the excitation
 pulse to get the magnetization precessing and to detect the MRI signal
@@ -22,11 +20,7 @@ the solenoid is too long, signal from water outside the imaging volume
 that lies in the nonlinear region of the gradient coil field profile
 will warp into the image and cause artifacts.
 
-<a href="/tabletop-mri/files/IMG_7652.JPG" class="wikilink"
-title="400px|thumb|right|Close-up of RF coil showing approx. size: ~7 turns of wire, 14mm dia. along X, 11mm length along Y direction. Teflon tubing is used around the wire to set the spacing between turns.">400px|thumb|right|Close-up
-of RF coil showing approx. size: ~7 turns of wire, 14mm dia. along X,
-11mm length along Y direction. Teflon tubing is used around the wire to
-set the spacing between turns.</a>
+![IMG 7652](IMG_7652.JPG)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +34,7 @@ connected to the transmit amplifier and sometimes be connected to the
 receive amplifier. This TR switch uses pin diodes and a lumped
 quarterwave line to effectively switch the coil connection between the
 two amplifiers, as shown in [this schematic
-diagram](/tabletop-mri/files/Picture1.png).
+diagram](Picture1.png).
 
 ------------------------------------------------------------------------
 
@@ -53,8 +47,8 @@ low noise figure is needed as the receive amplifier. A 2 stage amplifier
 was designed using [Gali-74+ Monolithic
 Amplifier](http://www.minicircuits.com/pdfs/GALI-74+.pdf) from
 Minicircuits. The TR switch and pre-amplifier circuit were combined in a
-single PCB. [Click
-here](/tabletop-mri/files/TR_switch_and_preamp.zip)
+single PCB. Click
+here *(download link pending from the responsible PI or project owner)*
 to download the Eagle board files for the TR Switch PCB.
 
 ------------------------------------------------------------------------

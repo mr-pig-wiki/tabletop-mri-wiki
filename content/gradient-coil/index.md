@@ -19,19 +19,12 @@ coils are implemented as 8 layer boards with buried vias. Two layers are
 dedicated to each of the windings (ie. two layers for the x primary on
 the primary board). The copper was 2oz/ft^2 to allow higher currents.
 
-Download Gerber files for the
-<a href="/tabletop-mri/files/CAS_Primary_8layers_v3.zip" class="wikilink"
-title="primary board">primary board</a> and
-<a href="/tabletop-mri/files/CAS_Shielding_8layers_v3.zip" class="wikilink"
-title="secondary shield board">secondary shield board</a> as well as a
-<a href="/tabletop-mri/files/GRADIENT_WIRING_DIAGRAM.pdf" class="wikilink"
-title="wiring diagram">wiring diagram</a>.
+The primary-board and secondary-shield-board Gerber files and the wiring
+diagram require current PI-managed external download links.
 
 The inductance and resistance of the final X, Y, and Z coils are:
 
 X: 10.3 uH, 0.385 ohms Y: 10.4 uH, 0.365 ohms Z: 6.4 uH, 0.118 ohms
 
-<a href="/tabletop-mri/files/Gradient_boards_smaller_jpg.jpg" class="wikilink"
-title="600px|thumb|right|">600px|thumb|right|</a>
-<a href="/tabletop-mri/files/Gradientcoil.png" class="wikilink"
-title="600px|thumb|right|">600px|thumb|right|</a>
+![Gradient boards smaller jpg](Gradient_boards_smaller_jpg.jpg)
+![Gradientcoil](Gradientcoil.png)

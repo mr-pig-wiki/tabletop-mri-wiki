@@ -7,14 +7,11 @@ RARE (72 echoes zero padded out to 96x96 image matrix) of our 10mm
 "star" phantom printed in ABS plastic (and water). Average of 4 shots
 (roughly 4 second acquisition).
 
-<a href="/tabletop-mri/files/Star_4ave.jpg" class="wikilink"
-title="300px|thumb|none">300px|thumb|none</a>
+![Star 4ave](Star_4ave.jpg)
 
 Below is a 3D TSE mouse brain and an MIT letter phantom with the letters
 "M" "I" "T" stacked so you need a 3D sequence to separate them.
 
-<a href="/tabletop-mri/files/3D_TSE_MOUSE_BRAIN.png" class="wikilink"
-title="900px|thumb|none">900px|thumb|none</a>
+![3D TSE MOUSE BRAIN](3D_TSE_MOUSE_BRAIN.png)
 
-<a href="/tabletop-mri/files/MIT_letter_phant_in_multi_slices.jpg" class="wikilink"
-title="900px|thumb|none">900px|thumb|none</a>
+![MIT letter phant in multi slices](MIT_letter_phant_in_multi_slices.jpg)

@@ -22,11 +22,9 @@ waveform in the pulse sequence and the size of the heat sink used on the
 boards.
 
 Two versions of the board have been used with the tabletop scanner.
-<a href="/tabletop-mri/gpa/#version-1-of-the-gpa-board" class="wikilink"
-title="Version 1">Version 1</a> uses separate digital-to-analog
+[Version 1](/tabletop-mri/gpa/#version-1-of-the-gpa-board) uses separate digital-to-analog
 converter (DAC) boards and provides one output channel per GPA board.
-<a href="/tabletop-mri/gpa/#version-2-of-the-gpa-board" class="wikilink"
-title="Version 2">Version 2</a> simplified the wiring and reduced costs
+[Version 2](/tabletop-mri/gpa/#version-2-of-the-gpa-board) simplified the wiring and reduced costs
 by placing three channels with integrated DAC stages onto a single PCB.
 Version 2 is plug-and-play compatible with the MEDUSA console digital
 gradient waveform output lines (RJ45 connector).
@@ -44,25 +42,33 @@ series with the output. A differential amplifier on the INA105 output
 provides a differential signal that can be scoped to monitor the current
 sense resistor voltage.
 
-<a href="/tabletop-mri/files/Updated_gpa_schematic_corrected_july_2020.png"
-class="wikilink"
-title="300px|thumb|right|Version 1 Gradient Power Amplifier circuit providing a single channel of output current">300px|thumb|right|Version
-1 Gradient Power Amplifier circuit providing a single channel of output
-current</a>
+![Version 1 single-channel gradient power amplifier circuit](Updated_gpa_schematic_corrected_july_2020.png)
 
-[Click
-here](/tabletop-mri/files/MIT-GPA-v4.sch.pdf) to
+Click
+here *(download link pending from the responsible PI or project owner)* to
 view the schematic for the GPA boards generated in Eagle (version 6).
 Note that a separate A/D converter was used in the initial realization
 of the boards (DAC on the GPAs was not populated).
 
-[Click
-here](/tabletop-mri/files/MIT-GPA-v3-fixed.zip) to
+Click
+here *(download link pending from the responsible PI or project owner)* to
 download Eagle version 6 board (.brd) and schematic (.sch) files for the
 V3 GPA board (does not include on-board DAC).
 
-`image:Photo.JPG|GPA boards mounted in enclosure with power supplies, terminal blocks, and digital-to-analog converter boards.  The boards were run on bipolar +15V and -15V rails provided by CUI switching supplies.  On-board regulators provide +12V, -12V, and +5V for powering the small ICs.  The +12V fan is powered by a small JST connector on the CUI supplies.`
-`image:Front panel photo.JPG|Aluminum front panels were made using a water-jet cutter.  `[`Hammond NHC-14157 enclosures`](http://www.mouser.com/ProductDetail/Bud-Industries/NHC-14157/?qs=W%252bB5Pl59bv4hUDQy1Kr8cw==)` were used to house the GPAs and DACs.  `[`Click here for DXF file for front panel cut-outs`](/tabletop-mri/files/2013_07_10_Panel_Dimensions_V3_WORKS_ON_OMAX_SOFTWARE_USING_AUTOCAD_2004_FORMAT.dxf.zip)`.  Note that Version 2 of the GPA board requires a horizontal slot for the RJ45 connectors instead of the vertical slot used here.`
+![GPA boards mounted in their enclosure](Photo.JPG)
+
+The boards were run on bipolar +15 V and -15 V rails provided by CUI
+switching supplies. On-board regulators provide +12 V, -12 V, and +5 V for
+powering the small ICs. The +12 V fan is powered by a small JST connector on
+the CUI supplies.
+
+![Aluminum GPA front panels](Front_panel_photo.JPG)
+
+The aluminum front panels were made using a water-jet cutter and
+[Hammond NHC-14157 enclosures](http://www.mouser.com/ProductDetail/Bud-Industries/NHC-14157/?qs=W%252bB5Pl59bv4hUDQy1Kr8cw==)
+were used to house the GPAs and DACs. The DXF download requires a current
+PI-managed external link. Version 2 of the GPA board requires a horizontal
+slot for the RJ45 connectors instead of the vertical slot used here.
 
 ## Version 2 of the GPA board
 
@@ -80,8 +86,8 @@ voltages providing faster gradient slew rates for a given load
 inductance. The circuit specifications and performance are described in
 more detail in an ISMRM abstract: [Arango et al., ISMRM 2016, p.
 1157](http://cds.ismrm.org/protected/16MPresentations/abstracts/1157.html).
-[Click
-here](/tabletop-mri/files/Arango_1157_8ch_shim_board_FINAL.pptx)
+Click
+here *(download link pending from the responsible PI or project owner)*
 to download slides from the ISMRM talk. The circuit was originally
 designed for use as an 8ch open-source, low-cost current driver for
 multi-coil shimming and other applications. [Click
@@ -91,15 +97,9 @@ the open loop transfer function and step response of the circuit into a
 specified load (useful for choosing the load impedance compensation
 circuit values).
 
-<a href="/tabletop-mri/files/V2_gpa_single_channel_schematic.png" class="wikilink"
-title="500px|thumb|left|Analog stage schematic for GPA Version 2. Stability is ensured by compensating the gradient coil load inductance using a lead compensator in the feedback loops. To compensate different loads, only two capacitors need to be changed as indicated in the yellow box. Circuit was designed and laid out by Jacob White and Nicolas Arango at MIT.">500px|thumb|left|Analog
-stage schematic for GPA Version 2. Stability is ensured by compensating
-the gradient coil load inductance using a lead compensator in the
-feedback loops. To compensate different loads, only two capacitors need
-to be changed as indicated in the yellow box. Circuit was designed and
-laid out by Jacob White and Nicolas Arango at MIT.</a>
+![V2 gpa single channel schematic](V2_gpa_single_channel_schematic.png)
 
- [Click here](/tabletop-mri/files/GPA_3ch_tabletop_shimboard_RevB_V8_2.zip)
+ Click here *(download link pending from the responsible PI or project owner)*
 to download Eagle version 6 board (.brd) and schematic
 (.sch) files for the GPA board with on-board DACs (Rev B). GERBER files
 for board production are also included.
@@ -107,7 +107,11 @@ for board production are also included.
 The GPA board has three parallel analog stages, each connected to a DAC.
 RJ45 connectors accept the [MEDUSA console](/tabletop-mri/console/)
 digital SPI outputs for the X, Y, and Z gradient axes.
-`image:Version 2 GPA enclosure.JPG|The 3ch GPA board installed in enclosure.  Powered by a 24V, 25A switching supply along with a small -15V supply for the digital stage ICs.   (Heat sinks and fan are not yet installed in this photo).`
+![Version 2 three-channel GPA installed in its enclosure](Version_2_GPA_enclosure.JPG)
+
+This installation is powered by a 24 V, 25 A switching supply and a small
+-15 V supply for the digital-stage ICs. Heat sinks and a fan were not yet
+installed when the photo was taken.
 
 *Known bugs in Rev B*: (1.) The LT1920 current sense buffer op amp is
 not working and requires debugging. The positive rail of the op amp was
@@ -123,13 +127,16 @@ Instead, the stencil should be lined up with Pin 4 on the IC.
 6th order butterworth low pass filters were added to the lines leading
 to the gradients.
 
-`image:Filter design.PNG|Filter design and component values for gradient filter. Note that R1 and R2 are not necessary in the final assembly.`
-`image:Filter performance.PNG|Simulated roll off performance of the filter as designed`
+![Gradient filter design and component values](Filter_design.PNG)
 
-The final version of these files can be downloaded as [Eagle
-5.11.0](/tabletop-mri/files/Eagle5.11_filter_board_files.zip)
+R1 and R2 are not necessary in the final assembly.
+
+![Simulated roll-off performance of the gradient filter](Filter_performance.PNG)
+
+The final version of these files can be downloaded as Eagle
+5.11.0 *(download link pending from the responsible PI or project owner)*
 and
-[Gerber](/tabletop-mri/files/Filter_boards_v3.zip)
+Gerber *(download link pending from the responsible PI or project owner)*
 (for having the boards manufactured).
 
 **Note:** Inductors were selected based on lead time and inductance and
@@ -143,9 +150,7 @@ uH](http://media.digikey.com/PDF/Data%20Sheets/Vishay%20Dale%20PDFs/IHLP-3232DZ-
 at each spot to allow for using multiple capacitors to obtain the
 specified value.
 
-<a href="/tabletop-mri/files/Gradient_filter_photo.png" class="wikilink"
-title="400px|thumb|none|Sample of populated filter board (v1)">400px|thumb|none|Sample
-of populated filter board (v1)</a>
+![Gradient filter photo](Gradient_filter_photo.png)
 
 ## 3ch GPA using 8ch Shim Board
 
@@ -156,12 +161,18 @@ supplies. Three BNC connectors take voltage waveform inputs at audio
 frequencies output to three banana plug outputs. An ammeter tracks total
 current use for the board, with a typical quiescent current of 600 mA.
 There are current sense pins available per channel at 1 V/A.
-<a href="/tabletop-mri/files/3ch_gpa.jpg" class="wikilink"
-title="300px|thumb|right|3ch gradient amplifier built from a modified 8ch shim amplifier board">300px|thumb|right|3ch
-gradient amplifier built from a modified 8ch shim amplifier board</a>
+![3ch gpa](3ch_gpa.jpg)
 
-`image:3ch_inputs.jpg|3 BNC ports (X, Y, Z) take differential voltage waves and output 8+ Amps from 3 banana plug outputs`
-`image:3ch_insides.jpg|The Rev C shim amplifier board is modified with a buffer on the input and output, along with ganging channels together to raise current limits (3 channels for X, Z; 2 for Y)`
+![Three BNC inputs and banana-plug outputs](3ch_inputs.jpg)
+
+The three BNC ports (X, Y, Z) take differential voltage waveforms and output
+more than 8 A through three banana-plug outputs.
+
+![Inside the modified Rev C shim amplifier](3ch_insides.jpg)
+
+The Rev C shim amplifier board is modified with input and output buffers. Its
+channels are grouped to raise current limits: three channels for X and Z and
+two for Y.
 
 To use the Rev C shim amplifier board, the GPA groups channels together
 (3 for X, Z, 2 for Y) to raise current limits. The shim pcb is fitted
@@ -170,11 +181,15 @@ board buffers the inputs and current sense outputs to avoid grounding
 issues. The inputs and outputs to the buffer board are wires that are
 jumped onto the board.
 
-`image:3ch_buffer_placement.jpg|Buffer board placed on shim amplifier pcb`
-`image:buffer_pcb.png|Buffer board pcb layout`
-`image:buffer_schematic.png|Buffer board schematic, containing input and current sense output buffers`
-`image:buffer_input_schematic.png|Input buffer, passing the input through a unity-gain buffer`
-`image:buffer_current_sense.png|Current sense voltage adder and buffer, tracking the current sense resistor voltage drops to a gain of 1 V/A per channel (X, Y, Z)`
+![Buffer-board placement on the shim-amplifier PCB](3ch_buffer_placement.jpg)
+
+![Buffer-board PCB layout](Buffer_pcb.png)
+
+![Buffer-board schematic](Buffer_schematic.png)
+
+![Unity-gain input buffer](Buffer_input_schematic.png)
+
+![Current-sense voltage adder and buffer](Buffer_current_sense.png)
 
 The Rev C shim board requires a tuned compensation feedback loop to
 avoid signal ringing. This is dependent on the load -- for the Halbach
@@ -182,5 +197,5 @@ scanner, a tabletop MR scanner with ~400 uH coil inductance and ~2 Ohm
 resistance, the feedback capacitors are currently 1470 pF. This requires
 switching out components to change.
 
-<a href="/tabletop-mri/files/Buffer_board.zip" class="wikilink"
-title="Buffer board KiCAD files">Buffer board KiCAD files</a>
+The buffer-board KiCAD files require a current PI-managed external download
+link.

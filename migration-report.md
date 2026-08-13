@@ -1,13 +1,15 @@
 # Tabletop MRI wiki migration report
 
-The `hugo-content` branch adds a native Hugo content tree while preserving the
-original MediaWiki extraction in `md_pages/` and downloads in `wiki_files/`.
+The `hugo-content` branch adds a native Hugo content tree. The original
+MediaWiki extraction in `md_pages/` and downloads in `wiki_files/` remain as
+source archives but are not published by the main site.
 
 - Eight archived pages are available under `/tabletop-mri/`.
-- Download assets are mounted under `/tabletop-mri/files/` without duplication.
-- Links to archived downloads were redirected to their local files where a
-  matching file exists.
+- Referenced images are stored in their Hugo page bundles.
+- Archived ZIP, PDF, CAD, and similar downloads are not published. Pages mark
+  those downloads as pending until the responsible PI or project owner adds an
+  authoritative external link.
 - The exported `Lecture1.pdf` link was removed because the file was absent from
   the archive.
-- Some extracted MediaWiki image markup remains as text and can be cleaned up
-  incrementally without blocking the site integration.
+- Extracted MediaWiki image markup and raw HTML links were converted to
+  portable Markdown.

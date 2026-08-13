@@ -2,8 +2,8 @@
 title: Source Code
 ---
 
-[**Click
-here**](/tabletop-mri/files/MRI_GUIs_v6p0.zip) for
+**Click
+here** *(download link pending from the responsible PI or project owner)* for
 the up-to-date **V6.0Matlab GUI** files used in MIT 6.S03 in Spring
 2017.
 
@@ -37,16 +37,16 @@ or XP. We are looking into the compatibility issue.
     the file "mit_mri_logo.ico". This shortcut will now automatically
     bring up Matlab and the launchpad.
 
-[**Click
-here**](/tabletop-mri/files/MRI_GUIs_v5p2.zip) for
+**Click
+here** *(download link pending from the responsible PI or project owner)* for
 the V5.2 Matlab GUI files used in MIT 6.S02 in Spring 2015.
 
-[**Click
-here**](/tabletop-mri/files/MRI_GUIs_v4p2.zip) for
+**Click
+here** *(download link pending from the responsible PI or project owner)* for
 the V4.2 Matlab GUI files used in MIT 6.S02 in Spring 2014.
 
-[**Click
-here**](/tabletop-mri/files/MRI_GUIs_v3.zip) for
+**Click
+here** *(download link pending from the responsible PI or project owner)* for
 the obsolete V3 Matlab GUI files used in MIT 6.S02 in Spring 2013.
 
 **PAST BUG FIXES / REVISIONS**
@@ -152,8 +152,6 @@ the obsolete V3 Matlab GUI files used in MIT 6.S02 in Spring 2013.
   this conversion: \[x, y, z\] --\> \[ 13,231, 13,231, 18,955\] Hz/cm
   per Amp
 
-<!-- -->
-
 - GPA boards are configured with gain = 1 so that 1V input sets the
   output to 1A.
 
@@ -165,8 +163,7 @@ TR), and save the raw data to a Matlab .mat file.
 
 ## FID_GUI
 
-<a href="/tabletop-mri/files/FID_GUI_basic_screenshot.png" class="wikilink"
-title="600px|thumb|right|FID GUI">600px|thumb|right|FID GUI</a>
+![FID GUI basic screenshot](FID_GUI_basic_screenshot.png)
 
 The FID GUI runs a "one pulse" experiment that acquires a free induction
 decay and displays the Fourier transform lineshape. The GUI also lets
@@ -176,8 +173,7 @@ or by hand using the slider bars or text fields.
 
 ## SE_PROJ_GUI
 
-<a href="/tabletop-mri/files/SE_PROJ_GUI_spin_echo_no_shim.png" class="wikilink"
-title="600px|thumb|right|SE_PROJ_GUI">600px|thumb|right|SE_PROJ_GUI</a>
+![SE PROJ GUI spin echo no shim](SE_PROJ_GUI_spin_echo_no_shim.png)
 
 The spin echo/projection GUI shows the evolution of the spins in a
 two-pulse experiment with and without dephase/rephase gradient lobes.
@@ -185,13 +181,11 @@ Students can see the effect of shimming on the shape of the spin echo.
 They can also see how applying gradient lobes along each direction
 creates a 1-D projection of the object instead of a narrow lineshape.
 
-<a href="/tabletop-mri/files/SE_PROJ_GUI_projection_multitube.png" class="wikilink"
-title="600px|thumb|right|SE_PROJ_GUI">600px|thumb|right|SE_PROJ_GUI</a>
+![SE PROJ GUI projection multitube](SE_PROJ_GUI_projection_multitube.png)
 
 ## IMAGING_GUI_1
 
-<a href="/tabletop-mri/files/IMAGING_GUI_1_screenshot.png" class="wikilink"
-title="600px|thumb|right|IMAGING_GUI_1">600px|thumb|right|IMAGING_GUI_1</a>
+![IMAGING GUI 1 screenshot](IMAGING_GUI_1_screenshot.png)
 
 IMAGING_GUI_1 lets students acquire a 2D spin echo image (no
 slice-direction encoding). Students must set the maximum gradient
@@ -201,8 +195,7 @@ Students then process k-space offline with the FFT to create the image.
 
 ## IMAGING_GUI_2
 
-<a href="/tabletop-mri/files/IMAGING_GUI_2_screenshot.png" class="wikilink"
-title="600px|thumb|right|IMAGING_GUI_2">600px|thumb|right|IMAGING_GUI_2</a>
+![IMAGING GUI 2 screenshot](IMAGING_GUI_2_screenshot.png)
 
 IMAGING_GUI_2 automatically computes read and phase encoding amplitudes
 for a desired FOV and resolution. Students can acquire 2-D spin echo and
@@ -221,8 +214,7 @@ k-space provide most of the signal and contrast in the image.
 
 ## IMAGING_GUI_3
 
-<a href="/tabletop-mri/files/IMAGING_GUI_3_with_image.png" class="wikilink"
-title="600px|thumb|right|IMAGING_GUI_3">600px|thumb|right|IMAGING_GUI_3</a>
+![IMAGING GUI 3 with image](IMAGING_GUI_3_with_image.png)
 
 IMAGING_GUI_3 acquires 3-D turbo spin echo images and displays the
 results in a separate window.

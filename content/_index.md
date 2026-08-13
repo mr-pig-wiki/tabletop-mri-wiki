@@ -27,25 +27,20 @@ Atoms](http://cba.mit.edu/) at the [MIT Media
 Lab](http://media.mit.edu/).
 
 The scanner design is described in a JMR paper
-[1](/tabletop-mri/files/1-s2.0-S1090780719302642-main.pdf)
+1 *(download link pending from the responsible PI or project owner)*
 and also [an abstract from the 2014 ISMRM
 conference](http://archive.ismrm.org/2014/4819.html).
 
 First delivery to MIT:
-<a href="/tabletop-mri/files/First_delivery_of_systems.JPG" class="wikilink"
-title="photo here">photo here</a> Systems ready to roll out:
-<a href="/tabletop-mri/files/Systems_ready_to_roll.jpg" class="wikilink"
-title="photo here">photo here</a> Students and faculty using the
+![First delivery of systems](First_delivery_of_systems.JPG) Systems ready to roll out:
+![Systems ready to roll](Systems_ready_to_roll.jpg) Students and faculty using the
 scanners in MIT 6.S02:
-<a href="/tabletop-mri/files/Tabletop_scanners_6S02.png" class="wikilink"
-title="photos here">photos here</a>
+![Tabletop scanners 6S02](Tabletop_scanners_6S02.png)
 
-<a href="/tabletop-mri/files/Tabletop_e_poster_ISMRM_2014_V1.pdf" class="wikilink"
-title="Slides describing the tabletop scanner">Slides describing the
-tabletop scanner</a> from the ISMRM 2014 Conference.
+The ISMRM 2014 slides describing the tabletop scanner require a current
+PI-managed external download link.
 
-<a href="/tabletop-mri/files/System_cart.jpg" class="wikilink"
-title="400px|thumb|right|">400px|thumb|right|</a>
+![System cart](System_cart.jpg)
 
 ## Introduction
 
@@ -56,11 +51,10 @@ bore](http://www.ncbi.nlm.nih.gov/pubmed/11755094) from [Steve Wright's
 lab](http://www.ece.tamu.edu/~mrsl/wright_ee_dept_bio.html) at [Texas
 A&M](http://www.tamu.edu/).
 
-<a href="/tabletop-mri/files/Relaxometer_griswold.pdf" class="wikilink"
-title="Open Source Mobile MR Relaxometer">Open Source Mobile MR
-Relaxometer</a> from [Mark Griswold's
+The Open Source Mobile MR Relaxometer material from [Mark Griswold's
 lab](http://ccir.case.edu/People/MarkAlanGriswoldPhD) at [Case
-Western](http://www.case.edu/).
+Western](http://www.case.edu/) requires a current owner-managed external
+download link.
 
 [Terranova-MRI earth's field system from
 Magritek.](http://www.magritek.com/products-terranova-overview)
@@ -73,50 +67,38 @@ Niumag in [Shanghai](http://en.wikipedia.org/wiki/Shanghai).
 
 ## Hardware
 
-- <a href="/tabletop-mri/console/" class="wikilink" title="Console">Console</a>
-- <a href="/tabletop-mri/gradient-coil/" class="wikilink"
-  title="Gradient coil">Gradient coil</a>
-- <a href="/tabletop-mri/gpa/" class="wikilink"
-  title="GPA/Gradient Filters">GPA/Gradient Filters</a>
-- <a href="/tabletop-mri/magnet/" class="wikilink" title="Magnet">Magnet</a>
-- <a href="/tabletop-mri/rf/" class="wikilink" title="RF">RF</a>
-- <a href="/tabletop-mri/files/Other_Components.zip" class="wikilink"
-  title="Other 3D printed components">Other 3D printed components</a>
-- <a href="/tabletop-mri/files/Parts_list_tabletop_MRI_scanner.pdf" class="wikilink"
-  title="Parts list">Parts list</a>
+- [Console](/tabletop-mri/console/)
+- [Gradient coil](/tabletop-mri/gradient-coil/)
+- [GPA/Gradient Filters](/tabletop-mri/gpa/)
+- [Magnet](/tabletop-mri/magnet/)
+- [RF](/tabletop-mri/rf/)
+- Other 3D-printed components *(external download link pending)*
+- Parts list *(external download link pending)*
 
 ## Sequences
 
-- <a href="/tabletop-mri/source-code/" class="wikilink"
-  title="GUI Source Code, Descriptions, and Screen shots">GUI Source Code,
-  Descriptions, and Screen shots</a>
+- [GUI Source Code, Descriptions, and Screen shots](/tabletop-mri/source-code/)
 
 ## Images
 
-- <a href="/tabletop-mri/images/" class="wikilink" title="Images">Images</a>
+- [Images](/tabletop-mri/images/)
 
 ## Lab Manuals + Course Notes
 
 **2015 Class**
 
-- <a href="/tabletop-mri/files/2015_04_28_6.s03_MRI_Lab3_v9.pdf" class="wikilink"
-  title="Lab 1">Lab 1</a>
-- <a href="/tabletop-mri/files/2015_04_09_MRI_Lab1_6.S03_v6_lab.pdf" class="wikilink"
-  title="Lab 2">Lab 2</a>
-- <a href="/tabletop-mri/files/2015_03_26MRILab2_6.S03v5.pdf" class="wikilink"
-  title="Lab 3">Lab 3</a>
+- Lab 1 *(external download link pending)*
+- Lab 2 *(external download link pending)*
+- Lab 3 *(external download link pending)*
 
 **2013 Class**
 
-- <a href="/tabletop-mri/files/Prelab1.pdf" class="wikilink" title="Pre-Lab 1">Pre-Lab
-  1</a>
-- <a href="/tabletop-mri/files/Lab1.pdf" class="wikilink" title="Lab 1">Lab 1</a>
-- <a href="/tabletop-mri/files/Prelab2.pdf" class="wikilink" title="Pre-Lab 2">Pre-Lab
-  2</a>
-- <a href="/tabletop-mri/files/Lab2.pdf" class="wikilink" title="Lab 2">Lab 2</a>
-- <a href="/tabletop-mri/files/Prelab3.pdf" class="wikilink" title="Pre-Lab 3">Pre-Lab
-  3</a>
-- <a href="/tabletop-mri/files/Lab3.pdf" class="wikilink" title="Lab 3">Lab 3</a>
+- Pre-Lab 1 *(external download link pending)*
+- Lab 1 *(external download link pending)*
+- Pre-Lab 2 *(external download link pending)*
+- Lab 2 *(external download link pending)*
+- Pre-Lab 3 *(external download link pending)*
+- Lab 3 *(external download link pending)*
 
 ## Contributors
 
